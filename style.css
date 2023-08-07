@@ -2,16 +2,12 @@ body{
 background-color: rgb(113, 113, 209);
 }
 
-h3{
    marquee{
       font-size: 30px;
       font-weight: 800;
       color: #8ebf42;
       font-family: sans-serif;
-      }
-   text-align: center;
-   color: rgb(219, 13, 13);
-}
+   }
 div{
     background-color: rgb(154, 154, 228);
 }
